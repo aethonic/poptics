@@ -1,4 +1,10 @@
 <?php
+/**
+ * Singleton class.
+ *
+ * @package Utils/Singleton
+ */
+
 namespace Poptics\Utils;
 
 defined( 'ABSPATH' ) || exit;
@@ -11,8 +17,18 @@ defined( 'ABSPATH' ) || exit;
  */
 trait Singleton {
 
+	/**
+	 * Current class instance.
+	 *
+	 * @var object
+	 */
 	private static $instance;
 
+	/**
+	 * Returns the singleton instance of the called class.
+	 *
+	 * @return object
+	 */
 	public static function instance() {
 		if ( ! self::$instance ) {
 			self::$instance = new static();

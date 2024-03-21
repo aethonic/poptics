@@ -54,7 +54,6 @@ class Autoloader {
 			require_once $file;
 		}
 	}
-
 }
 
 Autoloader::run();
