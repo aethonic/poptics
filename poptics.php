@@ -2,13 +2,13 @@
 
 /**
  * Plugin Name:       Poptics
- * Plugin URI:        https://arraytics.com/poptics/
+ * Plugin URI:        https://aethonic.com/poptics/
  * Description:       Most advanced pop-up builder plugin.
  * Version:           1.0.0
  * Requires at least: 5.2
  * Requires PHP:      7.3
- * Author:            Arraytics
- * Author URI:        https://arraytics.com/
+ * Author:            Aethonic
+ * Author URI:        https://aethonic.com/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       poptics
@@ -29,7 +29,7 @@
  *
  * @package Poptics
  * @category Core
- * @author Arraytics
+ * @author Aethonic
  * @version 1.0.0
  */
 
