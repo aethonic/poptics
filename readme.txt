@@ -1,6 +1,6 @@
 ===Poptics - The simplest pop-up builder that adds value to your business===
 Contributors: 
-Tags: popup, popups, popup builder, marketing, ecommerce, pop up, exit popup, wordpress popup, woocommerce popup, woocommerce, popup maker, email popup, email marketing, lightbox
+Tags: popup, popups, popup builder, pop up, popup maker
 Requires at least: 5.2
 Tested up to: 6.4.3
 Stable tag: 1.0.0
